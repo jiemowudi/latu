@@ -1,0 +1,19 @@
+{
+    "name": "jiemowudi/latu",
+    "type": "library",
+    "description": "Small animal web",
+    "keywords": ["latu","animal","dog"],
+    "homepage": "https://github.com/jiemowudi/latu",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kanzhi",
+            "email": "kanzhi19870706@163.com",
+            "homepage": "https://github.com/jiemowudi",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
